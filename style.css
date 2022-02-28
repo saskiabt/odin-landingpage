@@ -16,14 +16,15 @@ ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    padding: 0px; 
+    padding-right: 200px; 
+    padding-left: 200px;
     gap:16px;
     margin: 0px;
     
 }
 
 .header {
-    padding: 50px 200px;
+    padding: 50px 0px;
     font-family: "roboto-mono", "san-serif";
     font-weight: 400;
     padding-top: 16px;
@@ -36,6 +37,7 @@ ul {
     color: #f9faf8;
     font-family: "roboto-mono", sans-serif;
     font-weight:bold;
+    
 
     
 }
